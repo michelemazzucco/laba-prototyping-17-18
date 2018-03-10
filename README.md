@@ -22,10 +22,10 @@ Lezione di introduzione al corso di Prototyping.
 * Design Details | Podcast - [Link][dd]
 * Framer x Deliveroo: The Veteran Challenge - [Link][deliveroo]
 
-[lezione-01-s-d]:    https://github.com/michelemazzucco/laba-prototyping-17-18/raw/lezione-01/slide/slide-lezione-01.pdf
-[axure]:           https://www.axure.com/
-[principle]:       http://principleformac.com/
-[invision]:        https://www.invisionapp.com/studio
+[lezione-01-s-d]: https://github.com/michelemazzucco/laba-prototyping-17-18/raw/lezione-01/slides/01.pdf
+[axure]: https://www.axure.com/
+[principle]: http://principleformac.com/
+[invision]: https://www.invisionapp.com/studio
 [framer]: https://framer.com/
 [protopie]: https://www.protopie.io/
 [dd]: https://spec.fm/podcasts/design-details
