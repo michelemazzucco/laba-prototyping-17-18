@@ -1,6 +1,6 @@
-# LABA - Corso prototyping A.A.2016-2017
+# LABA - Corso prototyping A.A.2017-2018
 
-Il repo contiene il materiale, le slide e gli esercizi eseguiti durante le lezioni di Prototyping dell' A.A.2016-2017 presso la [Libera Accademia di Belle Arti - LABA][laba].
+Il repo contiene il materiale, le slide e gli esercizi eseguiti durante le lezioni di Prototyping dell' A.A.2017-2018 presso la [Libera Accademia di Belle Arti - LABA][laba].
 
 ## Elenco lezioni
 Ogni lezione si trova su un branch (link riportati qui sotto).
