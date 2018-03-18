@@ -7,6 +7,8 @@ Ogni lezione si trova su un branch (link riportati qui sotto).
 
 * **Lezione 01**  
 Introduzione | [Branch][lezione-01-b] - [Download][lezione-01-z]
+* **Lezione 02**  
+Introduzione | [Branch][lezione-02-b] - [Download][lezione-02-z]
 
 ## Programma corso
 Trovate il programma del corso [qui][programma].
@@ -30,5 +32,7 @@ Realizzazione di **3/4 prototipi** simili a quelli realizzati in classe. Questi 
 [laba]:            http://laba.edu/
 [lezione-01-b]:    https://github.com/michelemazzucco/laba-prototyping-17-18/tree/lezione-01
 [lezione-01-z]:    https://github.com/michelemazzucco/laba-prototyping-17-18/archive/lezione-01.zip
+[lezione-02-b]:    https://github.com/michelemazzucco/laba-prototyping-17-18/tree/lezione-02
+[lezione-02-z]:    https://github.com/michelemazzucco/laba-prototyping-17-18/archive/lezione-02.zip
 
 [programma]:       https://docs.google.com/document/d/1g7C7r-GcpRGc9Ew0Vw_2iv-aW79ZE3isOeNRyNPAtWo/edit?usp=sharing
