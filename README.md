@@ -1,25 +1,23 @@
-# Lezione 02
-Materiale della lezione n. 2.
+# Lezione 04
+Materiale della lezione n. 4.
 
 ## Risorse:
 * Slide Lezione - [Download][lezione-02-s-d]
 
 ## Software:
-* Principle - [Link][principle]
+* Axure RP 8 - [Link][axure]
 
-## Libri
-* Value Proposition Design. Come creare prodotti e servizi che i clienti desiderano - [Link][value-proposition-design]
+## Video
+* Design without Ego | Davide "Folletto" Casali - [Link][design-without-ego]
 
 ## Links vari:
-* Principle | Documentazione - [Link][principle-doc]
-* POMO Studio - [Link][pomo]
-* Fornasetti: - [Link][fornasetti]
-* Charles and Ray Eames - [Link][c-r-eames]
+* Axure RP 8 | Getting Started - [Link][axure-gt]
+* Axure RP 8 | Widget Libraries - [Link][axure-wl]
+* Axure RP 8 | Demo GDB - [Link][demo-gdb]
 
-[lezione-02-s-d]: https://github.com/michelemazzucco/laba-prototyping-17-18/raw/lezione-02/slides/02.pdf
-[principle]: http://principleformac.com/
-[principle-doc]: http://principleformac.com/docs.html
-[pomo]: http://www.thepomo.com/
-[fornasetti]: http://www.fornasetti.com/
-[c-r-eames]: https://en.wikipedia.org/wiki/Charles_and_Ray_Eames
-[value-proposition-design]: https://www.amazon.it/dp/8868951401/ref=asc_df_886895140150951615/?tag=googshopit-21&creative=23390&creativeASIN=8868951401&linkCode=df0&hvdev=c&hvnetw=g&hvqmt=&th=1&psc=1
+[lezione-02-s-d]: https://github.com/michelemazzucco/laba-prototyping-17-18/raw/lezione-04/slides/04.pdf
+[axure]: https://www.axure.com/
+[axure-gt]: https://www.axure.com/support/training/core/1-basics
+[axure-wl]: https://www.axure.com/support/download-widget-libraries
+[design-without-ego]: https://www.youtube.com/watch?v=eYZoN_HqARc
+[demo-gdb]: https://fz6r0j.axshare.com/
