@@ -15,8 +15,8 @@ oslo.states =
 		opacity: 1
 		
 # Functions
-getWeather = (location) ->
-	darkSkyURI = encodeURIComponent("https://api.darksky.net/forecast/#{darkSkyKey}/#{location}?units=ca&lang=it")
+getWeather = (location, lang = 'it') ->
+	darkSkyURI = encodeURIComponent("https://api.darksky.net/forecast/#{darkSkyKey}/#{location}?units=ca&lang=#{lang}")
 	data = Utils.domLoadJSONSync "http://cors-proxy.htmldriven.com/?url=#{darkSkyURI}"
 	return JSON.parse data.body
 
@@ -33,8 +33,8 @@ getIcon = (type) ->
 		when 'partly-cloudy-day' then return  '⛅️'
 		when 'partly-cloudy-night' then return  '☁️'
 
-renderCurrentWeather = (location) ->
-	currently = getWeather(location).currently
+renderCurrentWeather = (location, lang) ->
+	currently = getWeather(location, lang).currently
 	temperature.text = "#{currently.apparentTemperature}°"
 	summary.text = currently.summary
 	icon.text = getIcon(currently.icon)
@@ -54,3 +54,4 @@ oslo.onTap ->
 	brescia.stateSwitch('deactive')
 	oslo.stateSwitch('active')
 	renderCurrentWeather('59.915885, 10.736832')
+	
