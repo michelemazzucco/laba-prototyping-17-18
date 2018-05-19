@@ -1,29 +1,23 @@
-# Lezione 06
-Materiale della lezione n. 6.
+# Lezione 08
+Materiale della lezione n. 8.
 
 ## Risorse:
-* Slide Lezione - [Download][lezione-06-s-d]
+* Slide Lezione - [Download][lezione-08-s-d]
 
 ## Software:
-* Framer- [Link][framer]
+* ProtoPie - [Link][protopie]
+* ProtoPie | Learn - [Link][protopie-learn]
 
 ## Links vari:
-* Framer | Tutorials - [Link][framer-tutorials]
-* Framer | Resources - [Link][framer-resources]
-* Framer | Examples - [Link][framer-examples]
-* Framer | Docs - [Link][framer-docs]
-* Framer Community - [Link][framer-community]
-* Programming Guide - [Link][guides-programming]
-* CoffeeScript for Framer - [Link][coffee-for-framer]
-* CoffeeScript - [Link][coffeescript]
+* A Beginners' Guide to User Journey Mapping - [Link][abgtujm]
+* Mural | Think and collaborate visually. Anywhere, anytime. - [Link][mural]
+* Goodbye Pixate, Hello ProtoPie - [Link][goodbye-pixate-hello-protopie]
+* Arduino Prototyping with ProtoPie - [Link][arduino-prototyping-with-protopie]
 
-[lezione-06-s-d]: https://github.com/michelemazzucco/laba-prototyping-17-18/raw/lezione-06/slides/06.pdf
-[framer]: https://framer.com/
-[framer-tutorials]: https://framer.com/getstarted/tutorials/
-[framer-resources]: https://framer.com/getstarted/resources/
-[framer-examples]: https://framer.com/getstarted/examples/
-[framer-docs]: https://framer.com/docs/
-[framer-community]: https://www.facebook.com/groups/framerjs/
-[guides-programming]: https://framer.com/getstarted/guides/programming
-[coffee-for-framer]: https://coffeescript-for-framerjs.com/
-[coffeescript]: http://coffeescript.org/
+[lezione-08-s-d]: https://github.com/michelemazzucco/laba-prototyping-17-18/raw/lezione-08/slides/08.pdf
+[protopie]: https://www.protopie.io/
+[protopie-learn]: https://www.protopie.io/learn/
+[abgtujm]: https://www.appcues.com/blog/user-journey-map
+[mural]: https://mural.co/
+[goodbye-pixate-hello-protopie]: https://blog.prototypr.io/goodbye-pixate-hello-protopie-dfba9850b6fd#.ncfz51xsb
+[arduino-prototyping-with-protopie]: https://blog.protopie.io/arduino-prototyping-with-protopie-7932ececfec5
