@@ -18,11 +18,11 @@ Axure RP 8 | [Branch][lezione-05-b] - [Download][lezione-05-z]
 * **Lezione 06**  
 I livelli di fedeltà di un prototipo | [Branch][lezione-06-b] - [Download][lezione-06-z]
 * **Lezione 07**  
-I livelli di fedeltà di un prototipo | [Branch][lezione-07-b] - [Download][lezione-07-z]
+Framer | [Branch][lezione-07-b] - [Download][lezione-07-z]
 * **Lezione 08**  
-I livelli di fedeltà di un prototipo | [Branch][lezione-08-b] - [Download][lezione-08-z]
+I processi di prototipazione | [Branch][lezione-08-b] - [Download][lezione-08-z]
 * **Lezione 09**  
-I livelli di fedeltà di un prototipo | [Branch][lezione-09-b] - [Download][lezione-09-z]
+ProtoPie | [Branch][lezione-09-b] - [Download][lezione-09-z]
 
 ## Programma corso
 Trovate il programma del corso [qui][programma].
