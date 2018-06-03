@@ -23,6 +23,8 @@ Framer | [Branch][lezione-07-b] - [Download][lezione-07-z]
 I processi di prototipazione | [Branch][lezione-08-b] - [Download][lezione-08-z]
 * **Lezione 09**  
 ProtoPie | [Branch][lezione-09-b] - [Download][lezione-09-z]
+* **Lezione 10**  
+Come prototipare | [Branch][lezione-10-b] - [Download][lezione-10-z]
 
 ## Programma corso
 Trovate il programma del corso [qui][programma].
@@ -44,6 +46,8 @@ Realizzazione di **3/4 prototipi** simili a quelli realizzati in classe. Questi 
 - Non mi interessa che il software (o la tecnologia) sia citata a lezione
 
 [laba]:            http://laba.edu/
+[programma]:       https://docs.google.com/document/d/1g7C7r-GcpRGc9Ew0Vw_2iv-aW79ZE3isOeNRyNPAtWo/edit?usp=sharing
+
 [lezione-01-b]:    https://github.com/michelemazzucco/laba-prototyping-17-18/tree/lezione-01
 [lezione-01-z]:    https://github.com/michelemazzucco/laba-prototyping-17-18/archive/lezione-01.zip
 [lezione-02-b]:    https://github.com/michelemazzucco/laba-prototyping-17-18/tree/lezione-02
@@ -62,5 +66,5 @@ Realizzazione di **3/4 prototipi** simili a quelli realizzati in classe. Questi 
 [lezione-08-z]:    https://github.com/michelemazzucco/laba-prototyping-17-18/archive/lezione-08.zip
 [lezione-09-b]:    https://github.com/michelemazzucco/laba-prototyping-17-18/tree/lezione-09
 [lezione-09-z]:    https://github.com/michelemazzucco/laba-prototyping-17-18/archive/lezione-09.zip
-
-[programma]:       https://docs.google.com/document/d/1g7C7r-GcpRGc9Ew0Vw_2iv-aW79ZE3isOeNRyNPAtWo/edit?usp=sharing
+[lezione-10-b]:    https://github.com/michelemazzucco/laba-prototyping-17-18/tree/lezione-10
+[lezione-10-z]:    https://github.com/michelemazzucco/laba-prototyping-17-18/archive/lezione-10.zip
