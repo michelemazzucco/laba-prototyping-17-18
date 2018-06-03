@@ -1,23 +1,26 @@
-# Lezione 08
-Materiale della lezione n. 8.
+# Lezione 10
+Materiale della lezione n. 10.
 
 ## Risorse:
-* Slide Lezione - [Download][lezione-08-s-d]
+* Slide Lezione - [Download][lezione-10-s-d]
 
 ## Software:
-* ProtoPie - [Link][protopie]
-* ProtoPie | Learn - [Link][protopie-learn]
+* InVision Studio - [Link](https://www.invisionapp.com/studio)
+* InVision Studio | Learn - [Link](https://www.youtube.com/watch?v=8VJo0XH8spM&list=PLeWHfyz6lrQVorE4QwanvSBJA-Y3JVK-v)
 
 ## Links vari:
-* A Beginners' Guide to User Journey Mapping - [Link][abgtujm]
-* Mural | Think and collaborate visually. Anywhere, anytime. - [Link][mural]
-* Goodbye Pixate, Hello ProtoPie - [Link][goodbye-pixate-hello-protopie]
-* Arduino Prototyping with ProtoPie - [Link][arduino-prototyping-with-protopie]
+* Open Source Design - [Link](https://github.com/opensourcedesign)
+* NodeJS | Logo iteration - [Link](https://github.com/nodejs/evangelism/issues/179)
+* Making Material Design - [Link](https://www.youtube.com/watch?v=rrT6v5sOwJg)
+* Material Design Guidelines - [Link](https://material.io/design/)
+* Luke Wroblewski - [Link](https://www.lukew.com/about/)
+* Sketch Runner - [Link](https://sketchrunner.com/)
+* Sketchpacks - [Link](https://sketchpacks.com/)
+* Stark - [Link](http://www.getstark.co/)
+* Designing for the Mobile Environment – Some Simple Guidelines - [Link](https://www.interaction-design.org/literature/article/designing-for-the-mobile-environment-some-simple-guidelines)
 
-[lezione-08-s-d]: https://github.com/michelemazzucco/laba-prototyping-17-18/raw/lezione-08/slides/08.pdf
-[protopie]: https://www.protopie.io/
-[protopie-learn]: https://www.protopie.io/learn/
-[abgtujm]: https://www.appcues.com/blog/user-journey-map
-[mural]: https://mural.co/
-[goodbye-pixate-hello-protopie]: https://blog.prototypr.io/goodbye-pixate-hello-protopie-dfba9850b6fd#.ncfz51xsb
-[arduino-prototyping-with-protopie]: https://blog.protopie.io/arduino-prototyping-with-protopie-7932ececfec5
+## Libri
+* Mobile First - [Link](https://abookapart.com/products/mobile-first)
+* Responsive Design - [Link](https://abookapart.com/collections/responsive-design)
+
+[lezione-10-s-d]: https://github.com/michelemazzucco/laba-prototyping-17-18/raw/lezione-10/slides/10.pdf
